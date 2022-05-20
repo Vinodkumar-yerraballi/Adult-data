@@ -1,1 +1,1 @@
-# Adult-data
+# Income prediction using the adult dataset
